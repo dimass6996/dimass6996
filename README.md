@@ -1,46 +1,14 @@
-<div align="center">
+<div align="right">
 
-<sub>SOFTWARE DEVELOPMENT · BACKEND · SYSTEMS</sub>
-
-# Dmitriy Tikhonov
-
-**Java & Python developer**  
-Student at Ural Federal University · Mathematics & Mechanics
-
-I build practical tools, backend services and apps — from Telegram bots to REST APIs.
-
-[Explore projects](#selected-projects) · [Tech stack](#tech-stack)
+**Русский** · [English](README.en.md)
 
 </div>
 
----
+# Привет, я Дмитрий
 
-### About
+Учусь на матмехе УрФУ. Изучаю **Java, Python и SQL**, пользуюсь **Linux (Fedora)** и Git. Для практики делаю небольшие проекты с ботами, API и базами данных.
 
-- Currently focused on **backend development**, databases and API design.
-- Learning by building: Java applications, Python services and integrations.
-- Interested in **software architecture, Linux and cybersecurity**.
+### Проекты
 
-### Tech stack
-
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-1F2937?style=flat-square&logo=openjdk&logoColor=ffffff" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=ffffff" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=ffffff" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-1F2937?style=flat-square&logo=sqlite&logoColor=ffffff" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=ffffff" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-1F2937?style=flat-square&logo=linux&logoColor=ffffff" />
-</p>
-
-### Selected projects
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[DaiSteamchik](https://github.com/dimass6996/DaiSteamchik---teammate-finder)** | Telegram bot for player profiles and teammate discovery. In development. | Java · SQLite |
-| **[CityPulse](https://github.com/dimass6996/CityPulse)** *(in development)* | Weather data collection and REST API. | Python · FastAPI · SQLite |
-
----
-
-<div align="center">
-  <sub>Keep building. Keep learning.</sub>
-</div>
+- **[DaiSteamchik](https://github.com/dimass6996/DaiSteamchik---teammate-finder)** — Telegram-бот на Java для поиска тиммейтов, разрабатываем вместе с другом. Уже есть регистрация, просмотр анкет и хранение данных в SQLite. Поиск игроков и взаимодействие между ними пока в разработке.
+- **[CityPulse](https://github.com/dimass6996/CityPulse)** — проект на Python для сбора погодных данных через Open-Meteo, хранения истории в SQLite и доступа к данным через REST API на FastAPI. Проект ещё разрабатывается; исходный код в репозиторий пока не загружен.
