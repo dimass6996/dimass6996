@@ -37,13 +37,7 @@ I build practical tools, backend services and apps — from Telegram bots to RES
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
 | **[DaiSteamchik](https://github.com/dimass6996/DaiSteamchik---teammate-finder)** | Telegram bot for player profiles and teammate discovery. In development. | Java · SQLite |
-| **[Arbuz VPN](https://github.com/dimass6996/vpn_app)** | VPN app prototype with a Flutter client and FastAPI backend. | Flutter · FastAPI · PostgreSQL |
-| **[matmechCalendary](https://github.com/dimass6996/matmechCalendary)** | University calendar project with frontend, backend and desktop app structure. | TypeScript · Tauri |
-
-### Currently building
-
-**CityPulse** — a weather data collector and REST API built with Python, FastAPI and SQLite.  
-*In development; repository not linked yet.*
+| **CityPulse** *(in development)* | Weather data collection and REST API. Public repository coming soon. | Python · FastAPI · SQLite |
 
 ---
 
