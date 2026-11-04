@@ -37,7 +37,7 @@ I build practical tools, backend services and apps — from Telegram bots to RES
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
 | **[DaiSteamchik](https://github.com/dimass6996/DaiSteamchik---teammate-finder)** | Telegram bot for player profiles and teammate discovery. In development. | Java · SQLite |
-| **CityPulse** *(in development)* | Weather data collection and REST API. Public repository coming soon. | Python · FastAPI · SQLite |
+| **[CityPulse](https://github.com/dimass6996/CityPulse)** *(in development)* | Weather data collection and REST API. | Python · FastAPI · SQLite |
 
 ---
 
