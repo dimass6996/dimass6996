@@ -4,8 +4,8 @@
 
 ### Проекты
 
-- [DaiSteamchik](https://github.com/dimass6996/DaiSteamchik---teammate-finder) — Telegram-бот для поиска тиммейтов на Java. Разрабатываем вдвоём.
-- [CityPulse](https://github.com/dimass6996/CityPulse) — сервис для сбора и хранения погодных данных с REST API на Python.
+- [DaiSteamchik](https://github.com/dimass6996/DaiSteamchik---teammate-finder) - Telegram-бот для поиска тиммейтов на Java. Разрабатываем вдвоём.
+- [CityPulse](https://github.com/dimass6996/CityPulse) - сервис для сбора и хранения погодных данных с REST API на Python.
 
 ### Контакты
 
