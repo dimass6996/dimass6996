@@ -1,14 +1,10 @@
-<div align="right">
+# Дмитрий
 
-**Русский** · [English](README.en.md)
+Учусь на матмехе УрФУ, пишу на Java и Python. Использую Fedora Linux.
 
-</div>
+Сейчас работаю над несколькими проектами:
 
-# Привет, я Дмитрий
+- [DaiSteamchik](https://github.com/dimass6996/DaiSteamchik---teammate-finder) - Telegram-бот для поиска тиммейтов на Java.
+- [CityPulse](https://github.com/dimass6996/CityPulse) - сбор и хранение погодных данных, REST API на Python.
 
-Учусь на матмехе УрФУ. Изучаю **Java, Python и SQL**, пользуюсь **Linux (Fedora)** и Git. Для практики делаю небольшие проекты с ботами, API и базами данных.
-
-### Проекты
-
-- **[DaiSteamchik](https://github.com/dimass6996/DaiSteamchik---teammate-finder)** — Telegram-бот на Java для поиска тиммейтов, разрабатываем вместе с другом. Уже есть регистрация, просмотр анкет и хранение данных в SQLite. Поиск игроков и взаимодействие между ними пока в разработке.
-- **[CityPulse](https://github.com/dimass6996/CityPulse)** — проект на Python для сбора погодных данных через Open-Meteo, хранения истории в SQLite и доступа к данным через REST API на FastAPI. Проект ещё разрабатывается; исходный код в репозиторий пока не загружен.
+Также изучаю SQL и постепенно разбираюсь в бэкенд-разработке.
